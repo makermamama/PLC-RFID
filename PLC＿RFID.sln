@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLC＿RFID", "PLC＿RFID\PLC＿RFID.csproj", "{5EFD24FE-2B4A-4EED-AE86-EB3718BAB742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReWrite", "..\RFID\ReWrite\ReWrite.csproj", "{8EC84EB0-BDF4-44A0-9295-812A927EB27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFD24FE-2B4A-4EED-AE86-EB3718BAB742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFD24FE-2B4A-4EED-AE86-EB3718BAB742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFD24FE-2B4A-4EED-AE86-EB3718BAB742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFD24FE-2B4A-4EED-AE86-EB3718BAB742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC84EB0-BDF4-44A0-9295-812A927EB27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC84EB0-BDF4-44A0-9295-812A927EB27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC84EB0-BDF4-44A0-9295-812A927EB27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC84EB0-BDF4-44A0-9295-812A927EB27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5979FC7B-0C31-4119-B5A3-943E646C4BB1}
+	EndGlobalSection
+EndGlobal
